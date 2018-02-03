@@ -4,7 +4,7 @@
 
 echo shell_exec('git pull origin master');
 
-//echo 'ok';
+echo 'ok';
 
 //echo shell_exec('whoami');
 
