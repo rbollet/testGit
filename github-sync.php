@@ -2,9 +2,9 @@
 
 //if ( isset($_POST['payload']) && $_POST['payload'] ) {
 
-$output = shell_exec('git pull origin master');
+exec('git pull origin master', $output, $return);
 
-echo "<pre>$output</pre>";
+echo json_encode($output);
 
 //}
 
