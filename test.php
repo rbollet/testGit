@@ -2,4 +2,4 @@
 echo 'bonjour';
 echo '<br />';
 ?>
-<a href="index.php" title="accueil">Accueil</a>
+<a href="index.php" title="homepage">Home</a>
