@@ -1,5 +1,5 @@
 <?php
-echo 'bonsoir richard le plus fort !';
+echo 'bonjour richard le plus fort du monde !';
 echo '<br />';
 ?>
 <a href="index.php" title="homepage">Home</a>
